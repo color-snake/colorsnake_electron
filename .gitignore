@@ -1,0 +1,11 @@
+# OBSIDIAN
+.obsidian/workspace.json
+
+
+# MAC OS
+.DS_Store
+
+
+# NODE
+node/yarn.lock
+node/SUNFUN_WEB
