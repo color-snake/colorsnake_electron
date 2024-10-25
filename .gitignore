@@ -6,6 +6,9 @@
 .DS_Store
 
 
-# NODE
-node/yarn.lock
-node/SUNFUN_WEB
+# NODE + YARN
+yarn.lock
+.pnp.cjs
+.yarn/install-state.gz
+.editorconfig
+.gitattributes
