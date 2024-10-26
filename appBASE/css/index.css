@@ -32,4 +32,12 @@ header {
     color: black;
     mix-blend-mode: difference;
     width: 100%;
+
+}
+
+header img {
+    width: 20px;
+    position: absolute;
+    right: 20px;
+    top: 20px;
 }

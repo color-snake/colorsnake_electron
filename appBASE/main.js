@@ -9,8 +9,10 @@ const createWindow = () => {
   const mainWindow = new BrowserWindow
   ({
     autoHideMenuBar: true,
-    width: 800,
-    height: 600
+    width: 500,
+    height: 300,
+    minWidth: 500,
+    minHeight: 300
   })
 
   // and load the index.html of the app.
