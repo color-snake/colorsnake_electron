@@ -16,3 +16,5 @@ yarn.lock
 .yarn
 .pnp.loader.mjs
 node_modules
+.yarnrc.yml
+dist_mac
