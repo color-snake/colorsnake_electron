@@ -2,5 +2,9 @@
   "showInlineTitle": false,
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "DOCS/assets",
+  "userIgnoreFilters": [
+    "node_modules/"
+  ]
 }
