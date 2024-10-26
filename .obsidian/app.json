@@ -6,5 +6,6 @@
   "attachmentFolderPath": "DOCS/assets",
   "userIgnoreFilters": [
     "node_modules/"
-  ]
+  ],
+  "strictLineBreaks": false
 }
