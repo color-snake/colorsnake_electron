@@ -7,7 +7,7 @@
 
 
 # NODE + YARN
-# yarn init
+# yarn or pnpm as package manager
 yarn.lock
 .pnp.cjs
 .yarn/install-state.gz
@@ -18,3 +18,4 @@ yarn.lock
 node_modules
 .yarnrc.yml
 dist_mac
+pnpm-lock.yaml

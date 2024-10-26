@@ -11,6 +11,5 @@
   "scripts": {
     "start": "electron .",
     "mac": "electron-builder --publish=never --config mac_electron-builder.json"
-  },
-  "packageManager": "yarn@4.5.1"
+  }
 }
