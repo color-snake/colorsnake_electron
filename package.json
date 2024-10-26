@@ -1,6 +1,6 @@
 {
   "name": "colorsnake",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a color picker tool",
   "license": "MIT",
   "main": "appBASE/main.js",
