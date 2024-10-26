@@ -5,7 +5,7 @@
 
 
 /* APP BUTTONS */
-@import url('app-buttons.css');
+@import url('app_buttons.css');
 
 
 
@@ -35,8 +35,8 @@ header {
 
 }
 
-header img {
-    width: 20px;
+#colorpicker {
+    width: 50px;
     position: absolute;
     right: 20px;
     top: 20px;
