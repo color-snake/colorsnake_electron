@@ -12,9 +12,10 @@ Hi, since I primarily use mac os, I have it set up so that I can easily package 
 Since this is an electron app, you can clone it and build it yourself!
 I use yarn, but am playing around with different package managers, and electron-builder to build.
 cd into app base folder to run install and start commands!
+(If you get an error remove the "packageManager" line from the package.json.)
 
 
 I also kept this app very basic and did not customize the menu or anything.
-I currently have no world map to add more features.
+I currently have no road map to add more features.
 
 
