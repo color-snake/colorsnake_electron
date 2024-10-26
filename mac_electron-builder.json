@@ -6,7 +6,9 @@
     "directories": {
       "output": "dist_mac"
     },
-    "files": ["**/*"],
+    "files": [
+      "appBASE/**"
+    ],
 
     "mac": {
     "target": [{ "target": "dmg", "arch": ["arm64", "x64"] }],
