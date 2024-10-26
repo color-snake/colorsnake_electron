@@ -14,3 +14,4 @@ yarn.lock
 .editorconfig
 .gitattributes
 .yarn
+.pnp.loader.mjs
