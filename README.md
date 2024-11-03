@@ -1,9 +1,14 @@
-# color snake - color picker
-a color picker tool
- ![](DOCS/assets/APP_SCREENSHOT.png)
-COLOR SNAKE IS A WEB PROJECT BY NATHAN RENFROE & THE SUNSHINING
+![Sceenshot](DOCS/assets/APP_SCREENSHOT.png)
+
+# colorsnake_electron
+deskop color picker app
+
+
+THIS APP IS A PART OF THE COLOR SNAKE PROJECT BY NATHAN RENFROE & THE SUNSHINING
 BUILT WITH HTML, CSS AND JS.
 PACKAGED FOR DESKTOP WITH ELECTRON.
+
+
 
 
 ---
