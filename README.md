@@ -1,7 +1,7 @@
 ![Sceenshot](DOCS/assets/APP_SCREENSHOT.png)
 
 # colorsnake_electron
-deskop color picker app
+deskop color picker app, made with web languages and packaged with electron
 
 
 THIS APP IS A PART OF THE COLOR SNAKE PROJECT BY NATHAN RENFROE & THE SUNSHINING
@@ -24,3 +24,13 @@ I also kept this app very basic and did not customize the menu or anything.
 I currently have no road map to add more features.
 
 
+**build yourself**
+
+```sh
+git clone https://github.com/color-snake/colorsnake_electron
+cd colorsnake_electron/appBASE
+yarn install # To install dependencies
+yarn start # To start app
+yarn mac # To package for mac
+# You can also package for other operating systems, but I don't have easy commands set up for that.
+```
